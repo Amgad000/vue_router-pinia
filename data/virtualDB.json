@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "content": "pray the Maghrib",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "content": "finish pinia",
+      "isFav": false
+    }
+  ]
+}
